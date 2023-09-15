@@ -49,10 +49,13 @@ que transfere um valor em uma conta para outra conta.
 - [insomnia](https://insomnia.rest/)
 - [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+### Testes
+Testes feitos com a ferramenta **Insomnia**
+
 ### Preparação:
 
 ````
-git clone https://github.com/HermesdMatos/API-de-Banco.git
+git clone https://github.com/HermesdMatos/api-de-um-banco.git
 
 cd API-de-Banco
 
