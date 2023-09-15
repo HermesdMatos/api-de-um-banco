@@ -1,6 +1,6 @@
 ### API de um Banco Digital
 
-Inicialmente ela trás algumas funcionalidades para realizar as operações de um banco digital, como:
+Inicialmente ela traz algumas funcionalidades para realizar as operações de um banco digital, como:
 - Criar um conta;
 - atualizar uma conta;
 - Deletar uma conta;
