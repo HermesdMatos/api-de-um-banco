@@ -38,6 +38,8 @@ que transfere um valor em uma conta para outra conta.
 
 - Clientes (GET) /contas/saldo e /contas/extrato para obter o saldo e o extrato de uma conta.
 
+![Alt text](image.png)
+
 
 ### Pre-requisitos
 - [node](https://nodejs.org/) versão 16.13.2.
